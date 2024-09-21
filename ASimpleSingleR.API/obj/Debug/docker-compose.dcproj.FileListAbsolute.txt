@@ -1,0 +1,16 @@
+D:\csharp\ASimpleSingleR.API\bin\Debug\ASimpleSingleR.API.deps.json
+D:\csharp\ASimpleSingleR.API\bin\Debug\ASimpleSingleR.API.runtimeconfig.json
+D:\csharp\ASimpleSingleR.API\bin\Debug\appsettings.Development.json
+D:\csharp\ASimpleSingleR.API\bin\Debug\appsettings.json
+D:\csharp\ASimpleSingleR.API\bin\Debug\ASimpleSingleR.API.exe
+D:\csharp\ASimpleSingleR.API\bin\Debug\ASimpleSingleR.API.dll
+D:\csharp\ASimpleSingleR.API\bin\Debug\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+D:\csharp\ASimpleSingleR.API\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\csharp\ASimpleSingleR.API\bin\Debug\StackExchange.Redis.dll
+D:\csharp\ASimpleSingleR.API\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\csharp\ASimpleSingleR.API\bin\Debug\Microsoft.Extensions.Options.dll
+D:\csharp\ASimpleSingleR.API\bin\Debug\Pipelines.Sockets.Unofficial.dll
+D:\csharp\ASimpleSingleR.API\bin\Debug\ASimpleSingleR.API.pdb
+D:\csharp\ASimpleSingleR.API\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\csharp\ASimpleSingleR.API\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\csharp\ASimpleSingleR.API\obj\Debug\docker-c.35A3FFBA.Up2Date

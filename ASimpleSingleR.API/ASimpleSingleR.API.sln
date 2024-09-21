@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASimpleSingleR.API", "ASimpleSingleR.API\ASimpleSingleR.API.csproj", "{193C6DD1-1DAE-4C16-882F-EB460B60DC8E}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{561F1F0E-C69C-4EC4-82B1-6304BA85575A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{193C6DD1-1DAE-4C16-882F-EB460B60DC8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{193C6DD1-1DAE-4C16-882F-EB460B60DC8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{193C6DD1-1DAE-4C16-882F-EB460B60DC8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{193C6DD1-1DAE-4C16-882F-EB460B60DC8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{561F1F0E-C69C-4EC4-82B1-6304BA85575A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{561F1F0E-C69C-4EC4-82B1-6304BA85575A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{561F1F0E-C69C-4EC4-82B1-6304BA85575A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{561F1F0E-C69C-4EC4-82B1-6304BA85575A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B42C6B2-E83C-4D0E-BE4A-C38830FBCFBA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+version: '3.4'
+
+services:
+  asimplesingler.api:
+    image: ${DOCKER_REGISTRY-}asimplesinglerapi // Service for the chat API / Сервис для API чата
+    build:
+      context: . // Build context / Контекст сборки
+      dockerfile: ASimpleSingleR.API/Dockerfile // Path to the Dockerfile / Путь к Dockerfile
+  realtimechat.redis:
+    image: redis // Using the Redis image / Используем образ Redis
+    restart: always // Automatic container restart / Автоматический перезапуск контейнера
+    ports: 
+       - "6379:6379" 

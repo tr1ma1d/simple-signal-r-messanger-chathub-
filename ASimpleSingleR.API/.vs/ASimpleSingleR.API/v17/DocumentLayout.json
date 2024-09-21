@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\csharp\\ASimpleSingleR.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{561F1F0E-C69C-4EC4-82B1-6304BA85575A}|docker-compose.dcproj|d:\\csharp\\asimplesingler.api\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{561F1F0E-C69C-4EC4-82B1-6304BA85575A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193C6DD1-1DAE-4C16-882F-EB460B60DC8E}|ASimpleSingleR.API\\ASimpleSingleR.API.csproj|d:\\csharp\\asimplesingler.api\\asimplesingler.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193C6DD1-1DAE-4C16-882F-EB460B60DC8E}|ASimpleSingleR.API\\ASimpleSingleR.API.csproj|solutionrelative:asimplesingler.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193C6DD1-1DAE-4C16-882F-EB460B60DC8E}|ASimpleSingleR.API\\ASimpleSingleR.API.csproj|d:\\csharp\\asimplesingler.api\\asimplesingler.api\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193C6DD1-1DAE-4C16-882F-EB460B60DC8E}|ASimpleSingleR.API\\ASimpleSingleR.API.csproj|solutionrelative:asimplesingler.api\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193C6DD1-1DAE-4C16-882F-EB460B60DC8E}|ASimpleSingleR.API\\ASimpleSingleR.API.csproj|d:\\csharp\\asimplesingler.api\\asimplesingler.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{193C6DD1-1DAE-4C16-882F-EB460B60DC8E}|ASimpleSingleR.API\\ASimpleSingleR.API.csproj|solutionrelative:asimplesingler.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193C6DD1-1DAE-4C16-882F-EB460B60DC8E}|ASimpleSingleR.API\\ASimpleSingleR.API.csproj|d:\\csharp\\asimplesingler.api\\asimplesingler.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{193C6DD1-1DAE-4C16-882F-EB460B60DC8E}|ASimpleSingleR.API\\ASimpleSingleR.API.csproj|solutionrelative:asimplesingler.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193C6DD1-1DAE-4C16-882F-EB460B60DC8E}|ASimpleSingleR.API\\ASimpleSingleR.API.csproj|d:\\csharp\\asimplesingler.api\\asimplesingler.api\\models\\userconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193C6DD1-1DAE-4C16-882F-EB460B60DC8E}|ASimpleSingleR.API\\ASimpleSingleR.API.csproj|solutionrelative:asimplesingler.api\\models\\userconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193C6DD1-1DAE-4C16-882F-EB460B60DC8E}|ASimpleSingleR.API\\ASimpleSingleR.API.csproj|d:\\csharp\\asimplesingler.api\\asimplesingler.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{193C6DD1-1DAE-4C16-882F-EB460B60DC8E}|ASimpleSingleR.API\\ASimpleSingleR.API.csproj|solutionrelative:asimplesingler.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193C6DD1-1DAE-4C16-882F-EB460B60DC8E}|ASimpleSingleR.API\\ASimpleSingleR.API.csproj|d:\\csharp\\asimplesingler.api\\asimplesingler.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{193C6DD1-1DAE-4C16-882F-EB460B60DC8E}|ASimpleSingleR.API\\ASimpleSingleR.API.csproj|solutionrelative:asimplesingler.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\csharp\\ASimpleSingleR.API\\ASimpleSingleR.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ASimpleSingleR.API\\appsettings.Development.json",
+              "ToolTip": "D:\\csharp\\ASimpleSingleR.API\\ASimpleSingleR.API\\appsettings.Development.json",
+              "RelativeToolTip": "ASimpleSingleR.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-21T16:46:41.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\csharp\\ASimpleSingleR.API\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\csharp\\ASimpleSingleR.API\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-09-21T16:42:05.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\csharp\\ASimpleSingleR.API\\ASimpleSingleR.API\\Dockerfile",
+              "RelativeDocumentMoniker": "ASimpleSingleR.API\\Dockerfile",
+              "ToolTip": "D:\\csharp\\ASimpleSingleR.API\\ASimpleSingleR.API\\Dockerfile",
+              "RelativeToolTip": "ASimpleSingleR.API\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-21T16:40:45.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\csharp\\ASimpleSingleR.API\\ASimpleSingleR.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ASimpleSingleR.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\csharp\\ASimpleSingleR.API\\ASimpleSingleR.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ASimpleSingleR.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-21T15:28:20.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\csharp\\ASimpleSingleR.API\\ASimpleSingleR.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ASimpleSingleR.API\\appsettings.json",
+              "ToolTip": "D:\\csharp\\ASimpleSingleR.API\\ASimpleSingleR.API\\appsettings.json",
+              "RelativeToolTip": "ASimpleSingleR.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-21T15:28:05.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserConnection.cs",
+              "DocumentMoniker": "D:\\csharp\\ASimpleSingleR.API\\ASimpleSingleR.API\\Models\\UserConnection.cs",
+              "RelativeDocumentMoniker": "ASimpleSingleR.API\\Models\\UserConnection.cs",
+              "ToolTip": "D:\\csharp\\ASimpleSingleR.API\\ASimpleSingleR.API\\Models\\UserConnection.cs",
+              "RelativeToolTip": "ASimpleSingleR.API\\Models\\UserConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:41:17.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "D:\\csharp\\ASimpleSingleR.API\\ASimpleSingleR.API\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "ASimpleSingleR.API\\Hubs\\ChatHub.cs",
+              "ToolTip": "D:\\csharp\\ASimpleSingleR.API\\ASimpleSingleR.API\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "ASimpleSingleR.API\\Hubs\\ChatHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:38:52.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\csharp\\ASimpleSingleR.API\\ASimpleSingleR.API\\Program.cs",
+              "RelativeDocumentMoniker": "ASimpleSingleR.API\\Program.cs",
+              "ToolTip": "D:\\csharp\\ASimpleSingleR.API\\ASimpleSingleR.API\\Program.cs",
+              "RelativeToolTip": "ASimpleSingleR.API\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowBkAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:37:30.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
